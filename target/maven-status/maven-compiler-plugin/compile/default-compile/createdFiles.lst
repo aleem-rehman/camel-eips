@@ -1,0 +1,8 @@
+com/example/camel/LoggingExample.class
+com/example/camel/IdempotentConsumerExample$1.class
+com/example/camel/ContentBasedRouterExample$1.class
+com/example/camel/IdempotentConsumerExample.class
+com/example/camel/ClaimCheckExample.class
+com/example/camel/ContentBasedRouterExample.class
+com/example/camel/ClaimCheckExample$1.class
+com/example/dao/InMemoryRepository.class
